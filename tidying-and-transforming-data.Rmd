@@ -7,6 +7,10 @@ output: html_document
 
 <!-- https://rpubs.com/mrcuny/tidying-and-transforming-data -->
 
+[GitHub Link to Rmd file](https://github.com/mrcuny/tidying-and-transforming-data/blob/main/tidying-and-transforming-data.Rmd)
+
+----
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
